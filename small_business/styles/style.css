@@ -578,70 +578,7 @@ body.menu-active #Header .logo {
 	color: #333;
 	margin: 0 0 45px;
 }
-#ContactUs .form-wrap .floating-label {
-	position: relative;
-	width: 47%;
-	display: inline-block;
-	margin-bottom: 30px;
-}
-#ContactUs .form-wrap .fname, #ContactUs .form-wrap .contact {
-	margin-right: 20px;
-}
-#ContactUs .form-wrap .user-msg {
-	width: 98%;
-	display: block;
-	margin-bottom: 40px;
-}
-#ContactUs .floating-input {
-	width: 100%;
-	border: 0;
-	border-bottom: 1px solid #999999;
-	box-shadow: none;
-	background-color: transparent;
-	padding-top: 3px;
-}
-#ContactUs .floating-input:focus {
-	outline: 0;
-	border-bottom: 1px solid #19af83;
-}
-#ContactUs .form-wrap label {
-	position: absolute;
-	top: 0;
-	left: 0;
-	font: 400 14px/115% 'Open Sans', sans-serif;
-	text-align: left;
-	color: #999999;
-	transition: top 0.2s ease-in-out;
-	z-index: -1;
-}
-#ContactUs .floating-input:focus ~ label, #ContactUs .floating-input.not-empty ~ label {
-	top: -18px;
-	font: 400 12px/115% 'Open Sans', sans-serif;
-  color:#19af83;
-  transition: top 0.2s ease-in-out;
-}
-#ContactUs .submit-btn {
-	text-align: center;
-}
-#ContactUs .submit-btn button {
-	font: 400 16px/115% 'Open Sans', sans-serif;
-	border: 0;
-	border-radius: 0;
-	background-color: #19af83;
-	color: #fff;
-	padding: 10px 30px;
-	cursor: pointer;
-	outline: 0;
-	border-radius: 28px;
-	color: #fff;
-	border: 1px solid #19af83;
-	transition: all 0.25s ease 0s;
-}
-#ContactUs .submit-btn button:hover {
-	background-color: #fff;
-	color: #19af83;
-	transition: all 0.25s ease 0s;
-}
+
 /*ContactUs style end*/
 /*Footer style begin*/
 #Footer {

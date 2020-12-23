@@ -1,0 +1,21 @@
+.banner{
+    width: 100%;
+    background: url("img/beauty-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 50px;
+}
+
+.contact {
+    padding: 40px;
+}
+
+.contact-title{
+    font-weight: 600;
+    font-family: "Arial";  
+}
+
+.contact-phone ,.contact-address {
+    font-family: "Roboto";
+    font-weight: 400;
+}
